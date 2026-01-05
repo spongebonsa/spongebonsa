@@ -18,6 +18,6 @@ IT-major at AU <br>
 - web: PHP , HTML , CSS , JS , SQL
 - class: C , Bash , Python , Java, cisco , mathlab
 
-Currently advancing in C++ at learn https://www.learncpp.com/ 
+Currently advancing in C++ at learn https://www.learncpp.com/ <br>
 Ethiopia <br>
 *Contact*: spongebonsa145@gmail.com
