@@ -16,7 +16,7 @@ IT-major at AU <br>
 ## Languages
 - good at: C++ 
 - web: PHP , HTML , CSS , JS , SQL
-- class: C , Bash , Python , Java, cisco , mathlab
+- class: C , Bash , Python , Java, cisco , mathlab , shell
 
 Currently advancing in C++ at learn https://www.learncpp.com/ <br>
 Ethiopia <br>
