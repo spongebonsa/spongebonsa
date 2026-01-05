@@ -14,7 +14,7 @@ IT-major at AU <br>
 ---
 
 ## Languages
-- good at: C++ 
+- good at: C++ , CMake
 - web: PHP , HTML , CSS , JS , SQL
 - class: C , Bash , Python , Java, cisco , mathlab , shell
 
