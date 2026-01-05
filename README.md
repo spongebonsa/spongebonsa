@@ -6,10 +6,10 @@ IT-major at AU <br>
 ---
 
 ## Work
-- Text engines (Amharic / Oromo)
-- Unicode, not strings
-- Logic isolated from I/O  
-- Audio as a boundary, not a features
+- Type-Erased Function
+- Memory Pool
+- Lock-Free Queue  
+- A High-Performance Key-Value Store (LSM Tree)
 
 ---
 
@@ -18,5 +18,6 @@ IT-major at AU <br>
 - web: PHP , HTML , CSS , JS , SQL
 - class: C , Bash , Python , Java, cisco , mathlab
 
+Currently advancing in C++ at learn https://www.learncpp.com/ 
 Ethiopia <br>
 *Contact*: spongebonsa145@gmail.com
