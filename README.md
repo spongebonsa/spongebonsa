@@ -8,7 +8,6 @@ IT-major at AU <br>
 ## Work
 - **Simple Shell (C)** – Forking processes, custom input parsing, memory tightropes  
 - **_printf (C)** – Variadic beast with custom specifiers & optimized buffer  
-- **Binary Tree Algorithms (C)** – Non-recursive BST, AVL, and Morris traversal  
 - **Algorithmic Projects (C++)** – Low-level system logic & trading strategies 
 
 ---
