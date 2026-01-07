@@ -14,10 +14,10 @@ IT-major at AU <br>
 ---
 
 ## Languages
-- good at: C++ , CMake
+- good at: C++ , C
 - web: PHP , HTML , CSS , JS , SQL
-- class: C , Bash , Python , Java, cisco , mathlab , shell
+- class: Bash , Python , Java, cisco , mathlab , shell
 
-Currently advancing in C++ at learn https://www.learncpp.com/ <br>
+Currently leveling up in C++ at [learncpp.com](https://www.learncpp.com/)  <br>
 Ethiopia <br>
 *Contact*: spongebonsa145@gmail.com
