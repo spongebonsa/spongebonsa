@@ -5,18 +5,12 @@ IT-major at AU <br>
 
 ---
 
-## Work
-- **Simple Shell (C)** – Forking processes, custom input parsing, memory tightropes  
-- **_printf (C)** – Variadic beast with custom specifiers & optimized buffer  
-- **Algorithmic Projects (C++)** – Low-level system logic & trading strategies 
-
----
-
 ## Languages
-- good at: C++ , C
+- good at: C++
 - web: PHP , HTML , CSS , JS , SQL
-- class: Bash , Python , Java, cisco , mathlab , shell
+- class: Python , Java, cisco , mathlab , shell
 
 Currently leveling up in C++ at [learncpp.com](https://www.learncpp.com/)  <br>
+also python for ai at [learnpython.org](https://www.learnpython.org/)
 Ethiopia <br>
 *Contact*: spongebonsa145@gmail.com
